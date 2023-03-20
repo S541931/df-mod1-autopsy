@@ -8,5 +8,5 @@ Source code:
 
 Website links:
 
-- [View index.html as webpage] https://S541931.github.io/df-mod1-autopsy/index.html 
-- [View report as webpage] https://S541931.github.io/df-mod1-autopsy/Reports/report.html 
+- [View index.html as webpage](https://S541931.github.io/df-mod1-autopsy/index.html) 
+- [View report as webpage](https://S541931.github.io/df-mod1-autopsy/Reports/report.html) 
